@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   # s.osx.deployment_target = '10.7'
   s.requires_arc = true
  
-  s.source_files = 'ZYInputAlertDemo/*'
+  s.source_files = 'ZYInputAlert/**/*'
   # s.resources = 'Assets'
  
   # s.ios.exclude_files = 'Classes/osx'
